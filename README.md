@@ -4,8 +4,7 @@ Data Insight Solution for Liquidity Fees in Web 3
 Intial Chain Targets: Algorand and Ethereum
 
 
-
-![Sassy_Screenshot](https://user-images.githubusercontent.com/100870737/179097190-191e2729-cf89-4894-b99a-af17f06faad9.JPG)
+![Sassy_Pic](https://user-images.githubusercontent.com/100870737/179099078-f3625d09-5ca7-48b9-bcf3-077d1f6ae562.png)
 
 After the data is scraped, the machine learning insights are displayed in a dashboard to provide the user with more insight on what factors impact the liquidity and transaction fees for each chain.
 
